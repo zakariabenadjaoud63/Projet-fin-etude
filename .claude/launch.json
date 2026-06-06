@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "wow-xampp",
+      "runtimeExecutable": "cmd",
+      "runtimeArgs": ["/c", "echo", "XAMPP already running"],
+      "port": 80
+    }
+  ]
+}
